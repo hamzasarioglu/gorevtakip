@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956398394373",
+    "project_id": "gorev-takip1905",
+    "storage_bucket": "gorev-takip1905.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956398394373:android:609620c9c62de54133506c",
+        "android_client_info": {
+          "package_name": "com.example.gorev_takip_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5pKKU1VqF0Nogem6dvPzj7XTvY-Z6vT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
